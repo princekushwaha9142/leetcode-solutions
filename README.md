@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
