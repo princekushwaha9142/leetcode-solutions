@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## String
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -60,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -89,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
