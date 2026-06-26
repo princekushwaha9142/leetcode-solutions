@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## String
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
