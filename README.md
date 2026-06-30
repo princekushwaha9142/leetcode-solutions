@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0912-sort-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
