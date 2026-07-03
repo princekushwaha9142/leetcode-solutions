@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0912-sort-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## String
@@ -48,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
