@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0268-missing-number) |
+| [1539-kth-missing-positive-number](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Greedy
 |  |
 | ------- |
