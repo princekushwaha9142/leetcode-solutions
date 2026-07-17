@@ -1,0 +1,24 @@
+"""
+# Definition for a Node.
+class Node(object):
+    def __init__(self, val = 0, neighbors = None):
+        self.val = val
+        self.neighbors = neighbors if neighbors is not None else []
+"""
+
+class Solution(object):
+    def cloneGraph(self, node):
+        if not node:
+            return node
+        clones = {}
+        def dfs(curr_node):
+            if curr_node in clones:
+                return clones[curr_node]
+            copy = Node(curr_node.val)
+            clones[curr_node] = copy
+
+            for neighbor in curr_node.neighbors:
+                copy.neighbors.append(dfs(neighbor))
+            return copy
+        return dfs(node)
+        
