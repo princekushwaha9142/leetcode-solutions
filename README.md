@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
 | ------- |
