@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -229,9 +231,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0707-design-linked-list](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/princekushwaha9142/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
